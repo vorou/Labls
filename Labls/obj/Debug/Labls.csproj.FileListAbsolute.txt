@@ -1,0 +1,7 @@
+c:\users\vorou\code\Labls\Labls\bin\Debug\Labls.exe.config
+c:\users\vorou\code\Labls\Labls\bin\Debug\Labls.exe
+c:\users\vorou\code\Labls\Labls\bin\Debug\Labls.pdb
+c:\users\vorou\code\Labls\Labls\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\vorou\code\Labls\Labls\obj\Debug\Labls.csprojResolveAssemblyReference.cache
+c:\users\vorou\code\Labls\Labls\obj\Debug\Labls.exe
+c:\users\vorou\code\Labls\Labls\obj\Debug\Labls.pdb
