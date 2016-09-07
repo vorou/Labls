@@ -74,7 +74,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Labls.React\.gitignore" />
+    <Content Include="Labls.React\app\assets\index.html" />
+    <Content Include="Labls.React\app\initialize.js" />
+    <Content Include="Labls.React\app\styles\application.css" />
+    <Content Include="Labls.React\brunch-config.js" />
     <Content Include="packages.config" />
+    <Content Include="Labls.React\app\components\App.jsx" />
+    <Content Include="Labls.React\package.json" />
+    <Content Include="Labls.React\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
