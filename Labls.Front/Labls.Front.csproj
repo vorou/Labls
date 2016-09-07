@@ -75,9 +75,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="public\app.css.map" />
-    <Content Include="public\app.js.map" />
-    <Content Include="public\vendor.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -86,10 +83,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="public\app.css" />
-    <Content Include="public\app.js" />
-    <Content Include="public\index.html" />
-    <Content Include="public\vendor.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
